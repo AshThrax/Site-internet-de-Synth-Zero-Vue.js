@@ -1,0 +1,28 @@
+[
+    {"name":"Patien Zero",
+        "set":
+        [
+         {"title":"Patient-Zero"},
+         {"title":"Drift"},
+         {"title":"Anthem"},
+         {"title":"Danger Zone"},
+         {"title":"NightRoad"},
+         {"title":"Lying Love"},
+         {"title":"Virus"},
+         {"title":"Deep in the Night"},
+         {"title":"Megalo"}
+        ],
+        "description":"This is where everything started , This is where Synth Zero begin ,Where is univers begin ,But where will it end? ",
+        "Date":"December 8th 2022"
+    },
+    {
+        "name":"Synth Zero Must Die",
+        "set":
+        [
+         {}
+        ],
+        "description":"everything need to die in order to be reborn ",
+        "Date":"Soon"
+    }
+    
+]
